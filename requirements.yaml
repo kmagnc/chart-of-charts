@@ -1,0 +1,13 @@
+dependencies:
+- name: basic-chart
+  repository: https://kmagnc.github.io/basic-chart/
+  version: 0.1.0
+  alias: basic-chart-original
+- name: basic-chart
+  repository: https://kmagnc.github.io/basic-chart/
+  version: 0.1.0
+  alias: basic-chart-location0
+- name: basic-chart
+  repository: https://kmagnc.github.io/basic-chart/
+  version: 0.1.0
+  alias: basic-chart-location1
