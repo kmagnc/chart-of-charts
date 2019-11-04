@@ -1,0 +1,9 @@
+basic-chart-original:
+  service:
+    port: 81
+basic-chart-location0:
+  service:
+    port: 82
+basic-chart-location1:
+  service:
+    port: 83
